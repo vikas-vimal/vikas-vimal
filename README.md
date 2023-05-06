@@ -1,6 +1,4 @@
-# About Me 💻 
-
-Hello world! I'm a senior software engineer and founding member of a popular social media startup.
+# 💻 Hello world! I'm a senior software engineer and founding member of a popular social media startup.
 
 ## Expertise 🚀 
 
@@ -23,7 +21,7 @@ Hello world! I'm a senior software engineer and founding member of a popular soc
 - Mongoose 
 - Laravel 
 
-### Programming Languages 💻 
+### Languages 💻 
 - JavaScript 
 - TypeScript 
 - Python 
